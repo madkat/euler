@@ -1,7 +1,7 @@
 
 <?php
 
-	class ProblemT extends Problem
+	class Problem10 extends Problem
 	{
         function __construct()
 		{
